@@ -21,8 +21,9 @@ Files
 ![image](https://github.com/46Karthik/React-node-FrontEnd/assets/104157027/e5971e71-cc86-44d3-980d-462998f27c41)
 
 Bulk Mail
-![image](![image](https://github.com/46Karthik/React-node-FrontEnd/assets/104157027/aa39a2e0-4b89-40b8-a8ca-33f4a08009ee)
-)
+![image](https://github.com/46Karthik/React-node-FrontEnd/assets/104157027/e290fef5-36b1-41fc-8923-8fab088ebcf7)
+![image](https://github.com/46Karthik/React-node-FrontEnd/assets/104157027/f9dd6d61-800d-42f5-a9fa-1e2bab1224f2)
+
 
 Signup
 ![image](https://github.com/46Karthik/React-node-FrontEnd/assets/104157027/eeed3446-2711-474f-83c5-dd2f6b939afd)
