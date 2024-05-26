@@ -1,0 +1,124 @@
+/* body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+} */
+
+/* code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+ .total-page{
+  background-image:url(./img/dear.jpg);
+  background-size: cover;
+  padding: 163px;
+ }
+
+ .total-page2{
+  background-image:url(./img/dear.jpg);
+  background-size: cover;
+  
+  padding: 164.5px;
+ } */
+
+/* .title1{
+  display: flex;
+  justify-content: center;
+  margin: 10px;
+}
+
+.total-input {
+  width: 400px;
+  padding: 20px;
+  margin-top: 20px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin: auto;
+  margin-top: auto;
+}
+
+.input1, .input2, .button, .social-buttons {
+  margin-bottom: 15px;
+}
+
+.login-button{
+  background-color: transparent ;
+  border-width: 2px;
+  border-color: black;
+}
+
+.login-button:hover{
+  color: white;
+}
+
+.input1 input, .input2 input, .button button, .social-buttons button {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+}
+
+.social-buttons button {
+  width: calc(50% - 5px);
+  margin-right: 5px;
+}
+
+.social-buttons button:last-child {
+  margin-right: 0;
+}
+.but-s{
+  display: flex;
+  justify-content: space-around;
+}
+
+.but-google{
+  border: none;
+  background-color: #db7fd2;
+  color: white;
+  margin: 5px;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.but-google:hover{
+  color: black;
+}
+
+.but-facebook{
+  border: none;
+  background-color: #375dce;
+  color: white;
+  margin: 5px;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.but-facebook:hover{
+  color: black;
+}
+
+.bottom-fp{
+  font-size: 12px;
+  margin: 5px;
+  color: honeydew;
+}
+
+.bottom-fp1:hover{
+  color: honeydew;
+  transform: translateX(-5px);
+}
+
+.bottom-fp2:hover{
+  color: honeydew;
+  transform: translateX(-5px);
+} */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
